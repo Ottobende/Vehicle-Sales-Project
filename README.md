@@ -13,7 +13,7 @@ This project helps stakeholders identify market trends and pricing opportunities
 -	`MMR` (Expected Price)
 -	`SellingPrice`
 -	`SaleDate`
-<a href="https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data">Dataset</a>
+Dataset<a href="https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data">Dataset</a>
 ## Project Goals
 -	Clean and prepare the dataset for analysis.
 -	Explore pricing trends across time, brands, and vehicle conditions.
