@@ -2,7 +2,7 @@
 This project helps stakeholders identify market trends and pricing opportunities and explores a large dataset of used vehicle listings to uncover pattern in vehicle pricing, condition, seller behavior, and market trends. It demonstrates end-to-end data analysis skills using **Microsoft SQL Server** for data cleaning and exploration, and **Power BI** for dashboard visualizations.
 
 ## Dataset Overview
--	**Size:** 558838 rows
+-	**Size:** 550,000 + rows
 -	**Columns (Selected):**
 `Year`
 -	`Make`, `Model`, `Trim`
@@ -47,9 +47,9 @@ This project helps stakeholders identify market trends and pricing opportunities
 ### 3. Visualization (Power BI)
 -	**Bar Charts**: Top 5 brands, average price by state
 -	**Line Charts**: Yearly pricing trends
--	**Cards**: KPIs like total cars sold, average price, highest sale
+-	**Cards**: KPIs like total cars sold and average price
 -	**Gauges**: Average selling price vs goal
--	**Filters and Slicers**: Interactive brand, state, and condition selection
+
 
 ## Key Insights
 -	**Ford**, **Chevrolet**, **Nissan**, **Toyota**, and **Dodge** were the top-selling brands
@@ -57,7 +57,7 @@ This project helps stakeholders identify market trends and pricing opportunities
 -	Vehicles in **excellent conditions** sold up to 18% higher than average
 -	Some sellers priced consistently below MMR, possibly signaling urgency
 -	States like **Ontario**, and **Tennessee** had the highest average prices
--	
+
 ## Skills Highlighted
 -	SQL (Data cleaning, grouping, type conversion)
 -	Power BI dash boarding and visualization
