@@ -47,14 +47,15 @@ This project helps stakeholders identify market trends and pricing opportunities
 - MMR vs actual selling price analysis
 
 ### 3. Visualization (Power BI)
--	**Bar Charts**: Top 5 brands, average price by state
+-	**Bar Chart**: Top 5 brands, average price by state
+-	**Bar Chart**: MMR vs actual selling price analysis
 -	**Line Charts**: Yearly pricing trends
--	**Cards**: KPIs like total cars sold and average price
--	**Gauges**: Average selling price vs goal
+-	**Cards**: KPIs like total cars sold and number of car brands
+-	**Gauges**: Average selling price 
 
 
 ## Key Insights
--	**Ford**, **Chevrolet**, **Nissan**, **Toyota**, and **Dodge** were the top-selling brands
+-	**Ford**,**Toyota**, **Chevrolet**, **Nissan**, and **Dodge** were the top-selling brands
 -	**High mileage** leads to noticeable price drop, especially beyond 100,000 miles
 -	Vehicles in **excellent conditions** sold up to 18% higher than average
 -	Some sellers priced consistently below MMR, possibly signaling urgency
