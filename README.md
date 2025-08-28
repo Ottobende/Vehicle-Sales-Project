@@ -53,7 +53,7 @@ This project helps stakeholders identify market trends and pricing opportunities
 -	**Cards**: KPIs like total cars sold and number of car brands
 -	**Gauges**: Average selling price 
 
-![image alt](https://github.com/Ottobende/Vehicle-Sales-Project/blob/main/Capture.JPG?raw=true)
+![image alt](https://github.com/Ottobende/Vehicle-Sales-Project/blob/main/Vehicle%20sale.JPG)
 
 ## Key Insights
 -	**Ford**,**Toyota**, **Chevrolet**, **Nissan**, and **Dodge** were the top-selling brands
